@@ -1,0 +1,73 @@
+.example_e {
+	background: #404040;
+	color: #f2f2f2 !important;
+	font-weight: 100;
+	border-radius: 2px;
+	padding: 20px;
+	text-transform: uppercase;
+	border-radius: 0% solid;
+	display: inline-block;
+	transition: all 0.3s ease 0s;
+}
+
+#cart-empty{
+	width: 25rem;
+	height: auto;
+}
+.example_e:hover {
+	color: #404040 !important;
+	text-decoration: none;
+	border-radius: 2px;
+	border-color: green;
+	font-weight: 700 !important;
+	letter-spacing: 3px;
+	background: none;
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+	transition: all 0.3s ease 0s;
+}
+
+.jumbotron {
+	padding: 2rem 1rem;
+	margin-bottom: 2rem;
+	border-radius: 0.3rem;
+	background: #000064; /* old browsers fallback color*/
+	background: -webkit-linear-gradient(to right, #b6fcd5, #468499);
+	background: linear-gradient(to right, #BBFAF0, #5EB5D7);
+}
+.btn-dark{
+	border-radius: 0%;
+}
+#header{
+	color:#F117C6F;
+	text-align: center;
+	font-size : 30px;
+	background: rgb(242,243,245);
+	height: 4rem;
+	margin-top: 5rem;
+}
+
+#backShopping{
+	background: #ffd60d;
+	width: 20rem;
+	text-align: center;
+	border: none;
+}
+#backShopping:hover{
+	background: rgb(240,240,240);
+	width: 20rem;
+	text-align: center;
+	border: none;
+}
+#btn-clearCart{
+	background: rgb(235,235,235);
+	width: 20rem;
+	text-align: center;
+	border: none;
+}
+#btn-clearCart:hover{
+	background: rgb(242,243,245);
+	width: 20rem;
+	text-align: center;
+	border: none;
+}

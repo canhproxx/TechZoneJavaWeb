@@ -1,0 +1,45 @@
+
+#header{
+	margin-top:4rem;
+	font-family : Sans-serif;
+	font-size : 20px;
+	color: #000000;
+	text-align: center;
+	background: linear-gradient(to right, #BBFAF0, #5EB5D7);
+	border-radius: 5px;
+}
+#btn-submit{
+	margin-left:0%;
+	border-radius: 2%;
+	background: #1fe5b6;
+	width: 10rem;
+	color: black;
+}
+#btn-home{
+	margin-left:0%;
+	border-radius: 2%;
+	background: #5ED5D7;
+	width: 10rem;
+}
+#myInput{
+	border-radius: 2px;
+	background: rgb(242,243,245);
+	border: none;
+}
+.form-check{
+	/* text-align: center; */
+	padding-left:0%;
+}
+.copy-text{
+	font-size: 15px;
+	color: #010000;
+}
+#error-login{
+	font-size: 15px;
+	background: linear-gradient(to right, #FDB9BE, #E95A7D);
+	color: #000000;
+	text-align: center;
+	width: 10rem;
+	height: 1,5rem;
+	border-radius: 2px;
+}
